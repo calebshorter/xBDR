@@ -1,0 +1,13 @@
+Location,Pitch Type,Ball,Strike
+Heart,Fastball,0.03,0.97
+Shadow,Fastball,0.53,0.47
+Chase,Fastball,0.97,0.03
+Waste,Fastball,1,0
+Heart,Breaking,0.02,0.98
+Shadow,Breaking,0.54,0.46
+Chase,Breaking,0.98,0.02
+Waste,Breaking,1,0
+Heart,Offspeed,0.03,0.97
+Shadow,Offspeed,0.61,0.39
+Chase,Offspeed,0.98,0.02
+Waste,Offspeed,1,0

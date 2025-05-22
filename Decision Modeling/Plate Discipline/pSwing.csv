@@ -1,0 +1,13 @@
+Location,Pitch Type,Miss,Foul,Out In-Play,Single,Double,Triple,Homerun
+Heart,Fastball,0.13,0.41,0.3,0.1,0.03,0,0.02
+Shadow,Fastball,0.2,0.43,0.26,0.08,0.02,0,0.01
+Chase,Fastball,0.34,0.41,0.18,0.05,0.01,0,0
+Waste,Fastball,0.55,0.32,0.1,0.02,0,0,0
+Heart,Breaking,0.14,0.36,0.32,0.1,0.04,0,0.03
+Shadow,Breaking,0.32,0.33,0.24,0.07,0.02,0,0.01
+Chase,Breaking,0.66,0.2,0.1,0.03,0,0,0
+Waste,Breaking,0.92,0.05,0.02,0.01,0,0,0
+Heart,Offspeed,0.19,0.33,0.31,0.09,0.04,0,0.03
+Shadow,Offspeed,0.31,0.3,0.28,0.08,0.02,0,0.01
+Chase,Offspeed,0.5,0.25,0.19,0.06,0.01,0,0
+Waste,Offspeed,0.7,0.17,0.09,0.03,0,0,0
