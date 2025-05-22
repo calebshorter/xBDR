@@ -28,7 +28,13 @@ In Major League Baseball, advanced metrics have a gap when it comes to evaluatin
 
 ---
 
+<<<<<<< HEAD
 ## 📬 Feedback & Collaboration
 
 I’m always open to feedback and conversation in the baseball analytics or data science space. Feel free to reach out via LinkedIn or email!
+=======
+## Feedback
+
+I’m always open to questions and conversation in the baseball analytics or data science space. Feel free to reach out via LinkedIn or email!
+>>>>>>> 1f528d64e0ae934a559bf746da5b09f6a8a7cd75
 
